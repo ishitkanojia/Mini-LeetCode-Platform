@@ -16,9 +16,9 @@ This project demonstrates how multiple **Data Structures & Algorithms** can be i
 
 ---
 
-## 🏠 Dashboard
+## 🏠 Create Account
 
-![Dashboard](screenshots/dashboard.png)
+![Create](screenshots/createacc.png)
 
 ---
 
